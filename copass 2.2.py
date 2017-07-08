@@ -220,7 +220,7 @@ def passlist(fname, y, m, d, ey, maxi):
                 y = int(y)-1
                 n = n+1
                 counter = counter+1
-        f.write("#Created By Pat&Mat ")
+        
         f.close()
         print("Passlist was Crated!")
 passlist(fname, y, m, d, ey, maxi)
