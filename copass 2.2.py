@@ -11,7 +11,7 @@ d = int(input("Please enter Start day :  "))
 od = str(d)
 ey = int(input("Please enter end year :  "))
 dy = y-ey
-maxi = int(input("Loftan Maximum ra Vared konid (1-5) : "))
+maxi = int(input("Please enter the number of repetitions : "))
 dn = input("Do you want append name of person(s) in passwords ? ( yes or no ) : ")
 if dn == "yes" or dn == "Yes":
     nm = input("Do you Have Name list ( type yes | or no ) : ")
