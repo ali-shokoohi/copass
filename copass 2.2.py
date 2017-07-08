@@ -4,12 +4,12 @@ a = [1395,1391,1387,1383,1379,1375,1371,1367,1363,1359,
 
 fname = input("Please enter your file name : ")+'.txt'
 f=open(fname,"w")
-y = int(input("lotfan sal shoro ra Vared konid : "))
-m = int(input("lotfan mah shoro ra vared konid :  "))
+y = int(input("Please enter Start year : "))
+m = int(input("Please enter Start month :  "))
 om = str(m)
-d = int(input("lotfan roz shoro ra vared konid :  "))
+d = int(input("Please enter Start day :  "))
 od = str(d)
-ey = int(input("lotfan sal etmam ra vared konid :  "))
+ey = int(input("Please enter end year :  "))
 dy = y-ey
 maxi = int(input("Loftan Maximum ra Vared konid (1-5) : "))
 dn = input("Do you want append name of person(s) in passwords ? ( yes or no ) : ")
