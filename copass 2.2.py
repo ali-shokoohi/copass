@@ -269,5 +269,5 @@ if combostart == 'Yes' or combostart == 'yes' :#Check creat a combolist
 elif combostart == 'No' or combostart == 'no' :
     print("Ok")
 Finished=input("\nAll of Works had been successfuly Finished! :) \n\n Good luCk !")
-#https://github.com/...
-#Created By Pat&Mat , [Your Name]
+#https://github.com/ali-shokoohi/copass/
+#Created By ali-shokoohi ,  , [Your Name]
