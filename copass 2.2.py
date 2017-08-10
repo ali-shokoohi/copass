@@ -270,4 +270,4 @@ elif combostart == 'No' or combostart == 'no' :
     print("Ok")
 Finished=input("\nAll of Works had been successfuly Finished! :) \n\n Good luCk !")
 #https://github.com/ali-shokoohi/copass/
-#Created By ali-shokoohi ,  , [Your Name]
+#Created By ali-shokoohi , pouya-abbasian , [Your Name]
