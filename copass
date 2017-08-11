@@ -29,12 +29,12 @@ if dn == "yes" or dn == "Yes":
                     whnum = numcounts[numcount]
                 else :
                     whnum = str(numcount+1)+'th'
-                opn = open('names.txt','a')
+                opn = open('namesC.txt','a')
                 opn.write(name+'\n')
                 name = input("Enter "+whnum+" Name of person that you want append in passwords and type End (Exampel : Mohammad ) : ")
             opn.close()
             numcount = 0
-            opnes = open('names.txt','r')
+            opnes = open('namesC.txt','r')
             names = opnes.readlines() 
             fm = 0
 elif dn == 'no' or dn == 'No':
