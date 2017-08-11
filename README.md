@@ -21,7 +21,7 @@ Please Development this program , and enter your name or nickname in program!
             zypper install git
          on fedora:
             sudo dnf install git 
-      -Type "git clone https://github.com/ali-shokoohi/copass.git" and press Enter.
-      -Type "cd copass && sudo chmod +x copass" and press Enter.
-      -So you can use this program "./copass"
+      -Type `git clone https://github.com/ali-shokoohi/copass.git` and press Enter.
+      -Type `cd copass && sudo chmod +x copass` and press Enter.
+      -So you can use this program `./copass`
     
