@@ -10,7 +10,7 @@ Please Development this program , and enter your name or nickname in program!
 
 # Instaltion:
 
-   ## on Gnu/Linux:
+   ### on Gnu/Linux:
       -Open the terminal
       -Install the git:
          on ubuntu , debian , kali:
